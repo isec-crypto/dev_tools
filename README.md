@@ -13,11 +13,23 @@ Office
 
 Visio/Draw.io
 
-* 更推荐后者：前者与office可能存在冲突问题，且需要激活；后者开源免费，且可使用latex公式语法进行编辑。
+* 更推荐后者：
+  * 前者与office可能存在冲突问题，且需要激活，无mac版；
+  * 后者开源免费，且可使用latex公式语法进行编辑，并且全平台支持。
 * Visio安装方式略
 * Draw.io下载&安装: [下载地址](https://github.com/jgraph/drawio-desktop/releases), win10选择xxx-windows-no-installer.exe下载，下载后双击即可打开，无需安装。
-* Draw.io使用说明：开箱即用 & [Latex使用教程](https://www.diagrams.net/doc/faq/math-typesetting)
+* Draw.io使用说明：开箱即用 & [Latex使用教程](https://www.diagrams.net/doc/faq/math-typesetting) & [更多教程](https://www.diagrams.net/doc/)
 
 ## 开发
 
+VsCode & Extension
+
+Linux on Windows
+
+Make
+
+CMake
+
 ## 写作
+
+Latex & VsCode VS Latex OnLine
