@@ -28,7 +28,18 @@ Linux on Windows
 
 Make
 
+* make是最常用的构建工具，用于编写工程的构建方式
+* 教程：[跟我一起写makefile](https://seisman.github.io/how-to-write-makefile/Makefile.pdf)
+* 学习方式：
+ * 没必要通读整个教程，结合工程案例，能读懂工程案例 & 能按照需求进行修改 即可
+ * 随学随动手操作
+
 CMake
+
+* cmake是用于跨平台的构建工具，也较为常见
+* 教程：[cmake-example](https://github.com/ttroy50/cmake-examples)
+ * 教程以一个一个小的example进行讲解
+ * 随学随动手操作
 
 ## 写作
 
