@@ -7,7 +7,7 @@ Office
 * 不建议使用WPS，有兼容性风险
 * 推荐版本：Office2019/Office365
 * 安装方式：搜索关键字"Office365 download"，选择[微软官网](https://www.microsoft.com/zh-cn/microsoft-365)，按指示下载并安装
-* 激活方法1：TB搜索office365激活，20元左右即可轻松解决问题
+* 激活方法1：TB搜索office365激活，20元左右
 * 激活方式2：使用[KMSPico](https://official-kmspico.com/)进行激活，需仔细阅读网站内容，按指示进行激活
 * 注：不要使用其他激活软件，存在安全风险
 
@@ -25,6 +25,8 @@ Acrobat PRO DC
 * 优质PDF阅读软件
 * 优点：可编辑PDF
 * 缺点：偏重量级、内存 & 存储占用较大
+* 安装方法1: 下载正版软件并购买激活
+* 安装方法2: TB搜索Acrobat PRO DC，20元左右
 
 ## 开发
 
