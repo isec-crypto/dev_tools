@@ -20,6 +20,12 @@ Visio/Draw.io
 * Draw.io下载&安装: [下载地址](https://github.com/jgraph/drawio-desktop/releases), win10选择xxx-windows-no-installer.exe下载，下载后双击即可打开，无需安装。
 * Draw.io使用说明：开箱即用 & [Latex使用教程](https://www.diagrams.net/doc/faq/math-typesetting) & [更多教程](https://www.diagrams.net/doc/)
 
+Acrobat PRO DC
+
+* 优质PDF阅读软件
+* 优点：可编辑PDF
+* 缺点：偏重量级、内存 & 存储占用较大
+
 ## 开发
 
 VsCode & Extension
