@@ -28,6 +28,12 @@ Acrobat PRO DC
 * 安装方法1: 下载正版软件并购买激活
 * 安装方法2: TB搜索Acrobat PRO DC，20元左右
 
+Clash
+
+* 优质代理软件，用于科学上网
+* 具体代理服务自行搜索，自行购买
+* [下载地址](https://github.com/Fndroid/clash_for_windows_pkg/releases)
+
 ## 开发
 
 VsCode & Extension
