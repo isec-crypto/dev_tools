@@ -40,6 +40,9 @@ VsCode & Extension
 
 Linux on Windows
 
+* 方法1：WSL
+* 方法2：VMWare虚拟机 & Windows SSH连接虚拟机
+
 Make
 
 * make是最常用的构建工具，用于编写工程的构建方式
