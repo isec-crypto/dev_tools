@@ -41,6 +41,7 @@ VsCode & Extension
 Linux on Windows
 
 * 方法1：WSL
+* 具体：Microsoft Store中下载Ubuntu，VsCode里安装扩展插件Remote - WSL，终端设置中“选择默认配置文件”选“Ubuntu (wsl)”
 * 方法2：VMWare虚拟机 & Windows SSH连接虚拟机
 
 Make
