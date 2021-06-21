@@ -66,5 +66,5 @@ CMake
 
 Latex & VsCode VS Latex OnLine
 * 下载Latex镜像：https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/texlive2021-20210325.iso
-* 搭配vscode: https://zhuanlan.zhihu.com/p/106167792
+* 搭配vscode：https://zhuanlan.zhihu.com/p/106167792
 * 安装latex workshop：vscode中安装latex workshop插件
