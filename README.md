@@ -47,6 +47,7 @@ Linux on Windows
 终端工具推荐：
 * zsh & oh-my-zsh & auto-suggestion
 
+Linux命令行教程：[快乐的Linux命令行](http://billie66.github.io/TLCL/)
 Make
 
 * make是最常用的构建工具，用于编写工程的构建方式
